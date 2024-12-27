@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently Exploring:<br>💡 Designing cutting-edge FPGA systems with precision and innovation.<br><br>🧑‍🤝‍🧑 Collaboration Zone:<br>🌐 Open to teaming up on Automotive Ethernet projects to drive smarter networks.<br><br>🤝 Looking for Assistance:<br>🛡️ Guidance on mastering Cyber Security challenges and solutions.<br><br>🌱 Learning Journey:<br>🤖 Diving into the exciting world of Machine Learning to unlock new possibilities.<br><br>💬 Ask Me Anything About:<br>📊 Unraveling complex problems with MATLAB – my go-to tool for simulations.<br><br>⚡ Fun Fact:<br>🎥 I moonlight as a Movie Critic, dissecting plots and performances like a pro!<br><br>
+🔭 I'm currently working on: FPGA Designing <br>
+🧑‍🤝‍🧑 I'm looking to collaborate on: Automotive Ethernet <br>
+🤝 I'm looking for help with: Cyber Security <br>
+🌱 I'm currently learning: Machine Learning <br>
+💬 Ask me about: MATLAB <br>
+⚡ Fun fact: I enjoy being a Movie Critic! <br>
 
 
 ## 🌐 Socials:

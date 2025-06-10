@@ -1,32 +1,106 @@
-# 💫 About Me:
-🔭 I'm currently working on: FPGA Designing <br>
-🧑‍🤝‍🧑 I'm looking to collaborate on: Automotive Ethernet <br>
-🤝 I'm looking for help with: Cyber Security <br>
-🌱 I'm currently learning: Machine Learning <br>
-💬 Ask me about: MATLAB <br>
-⚡ Fun fact: I enjoy being a Movie Critic! <br>
+# 💫 About Me
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([[J Sai Teja](https://www.facebook.com/Ravisaitej/)]) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([J Sai Teja](https://www.instagram.com/ravi_saitej/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([J Sai Teja](https://www.linkedin.com/in/jsaiteja/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([J Sai Teja](https://stackoverflow.com/users/23662692/j-sai-teja)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([J Sai Teja](https://www.youtube.com/@jsaiteja1991)) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([J Sai Teja](https://codepen.io/jsaiteja2001)) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jsaiteja2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jsaiteja2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsaiteja2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jsaiteja2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jsaiteja2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Hi! I'm **Jarbala Sai Teja Jarabala** 👋  
+I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, and **machine learning for embedded systems**. My academic and project experiences revolve around building intelligent hardware-software systems that are secure, real-time, and scalable.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jsaiteja2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 What I'm Focused On
+
+- 🚗 **Automotive Ethernet** – Exploring in-vehicle communication protocols and building test benches for attack simulations.
+- 🔐 **Cybersecurity** – Interested in protecting Battery Management Systems, EVs, and embedded networks from real-world cyber threats.
+- 🧠 **Machine Learning** – Applying ML techniques to signal processing, fault detection, and smart EV charging.
+- ⚙️ **FPGA Design** – Developing real-time signal processing modules, ADC interfacing, and ML accelerators on Zynq boards.
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Automotive Ethernet fuzzing & intrusion detection
+- FPGA-based signal classification or ML pipelines
+- MATLAB/Simulink models for EVs and control systems
+- Cyber-physical security research in automotive or energy domains
+
+---
+
+## 🧠 Always Learning
+
+- 🔄 Reinforcement Learning for EV Smart Charging (EV2Gym)
+- 📡 Automotive Ethernet Stack & Security
+- 📊 Advanced Signal Analytics using FPGAs
+- 🔧 Cloud-to-FPGA IoT integration (ThinkSpeak)
+
+---
+
+## 💬 Ask Me About
+
+- 📈 MATLAB & Simulink (model-based design, BMS, optimization)
+- 🔄 Signal Processing on FPGA
+- 🧪 Building hardware simulation test benches
+- 🔎 Research in Embedded Security or Smart Mobility
+
+---
+
+## ⚡ Fun Fact
+
+I'm also a **movie buff & critic**! I love analyzing screenplays and direction just like I debug signal timing or packet drops 😄
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsaiteja/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ravi_saitej/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jsaiteja1991)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Ravisaitej/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23662692/j-sai-teja)
+
+---
+
+## 🛠️ Tech Stack Highlights
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Platforms & Tools:**  
+![FPGA - Zynq](https://img.shields.io/badge/Zynq-FPGA-blue?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-orange?style=flat-square)
+![Python ML Stack](https://img.shields.io/badge/Python%20ML-TensorFlow|Scikit|NumPy-lightgrey?style=flat-square)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jsaiteja2001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=jsaiteja2001&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsaiteja2001&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jsaiteja2001&theme=algolia&no-frame=true&no-bg=false&margin-w=5)
+
+---
+
+### 🔝 Most Active Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=jsaiteja2001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jsaiteja2001&icon=0&color=0)](https://visitcount.itsvg.in)

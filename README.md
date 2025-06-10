@@ -109,9 +109,3 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjsaiteja2001%2Fvisits" alt="Visitor Badge" />
-</p>

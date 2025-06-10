@@ -113,5 +113,5 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jsaiteja2001&icon=0&color=0" alt="Visitor Badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjsaiteja2001%2Fvisits" alt="Visitor Badge" />
 </p>

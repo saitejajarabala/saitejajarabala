@@ -2,6 +2,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
+
+
+
+
 Hi there! I'm **Jarbala Sai Teja Jarabala** 👨‍💻  
 A **hardware-software enthusiast** working at the intersection of **FPGA design**, **automotive cybersecurity**, and **AI for embedded systems**. My work thrives where **performance**, **real-time constraints**, and **security** converge.
 

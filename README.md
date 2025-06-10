@@ -79,8 +79,6 @@ I'm also a **movie buff & critic**! I love analyzing screenplays and direction j
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jsaiteja2001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jsaiteja2001&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsaiteja2001&theme=tokyonight&hide_border=false&layout=compact)
 
 ---

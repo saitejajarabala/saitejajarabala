@@ -50,7 +50,7 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jsaiteja/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saitejajarabala/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
   <a href="https://www.instagram.com/ravi_saitej/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" /></a>
   <a href="https://www.facebook.com/Ravisaitej/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
   <a href="https://www.youtube.com/@jsaiteja1991" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" /></a>
@@ -91,7 +91,7 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jsaiteja2001&theme=algolia&no-frame=true&no-bg=false&margin-w=5" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saitejajarabala&theme=algolia&no-frame=true&no-bg=false&margin-w=5" width="95%" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 ## 🔝 Most Active Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jsaiteja2001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=saitejajarabala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" />
 </p>
 
 ---

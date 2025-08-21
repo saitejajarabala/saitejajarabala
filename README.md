@@ -83,7 +83,7 @@ I'm an engineer passionate about **FPGA design**, **automotive cybersecurity**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsaiteja2001&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejajarabala&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" width="60%" />
 </p>
 
 ---

@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/light.svg">
-  <img alt="Sai Teja Jarabala" src="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/light.png">
+  <img alt="Sai Teja Jarabala" src="https://raw.githubusercontent.com/saitejajarabala/saitejajarabala/main/light.png">
 </picture>
 
 <br/>
